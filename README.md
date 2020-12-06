@@ -6,5 +6,5 @@ Compared to the existing datasets, the proposed one is systematically designed a
 <img src="https://github.com/Jake-WU/Det-Fly/blob/main/Images/Det-Fly.jpg" width="700" height="600" align="middle" />
 
 
-# Dataset
-We put the images and annotation files in the BaiduNetdisk. If you are interested in Det-Fly, you can download this dataset by the links and passwords below.
+# Download
+We put the images and annotation files in the BaiduNetdisk. If you are interested in Det-Fly, you can download this dataset by the links and passwords show in below.
