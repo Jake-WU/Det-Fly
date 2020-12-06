@@ -8,3 +8,16 @@ Compared to the existing datasets, the proposed one is systematically designed a
 
 # Download
 We put the images and annotation files in the BaiduNetdisk. If you are interested in Det-Fly, you can download this dataset by the links and passwords show in below.
+
+
+# Citation
+If you use Det-Fly in your work please cite our paper!
+
+```
+@article{Det-Fly,
+  title={Air-to-Air Visual Detection of Micro-UAVs: An Experimental Evaluation of Deep Learning},
+  author={Ye Zheng, Zhang Chen, Dailin Lv, Zhixing Li, Zhenzhong Lan, Shiyu Zhao},
+  journal = {arXiv},
+  year={2020}
+}
+```
