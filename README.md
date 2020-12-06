@@ -3,7 +3,7 @@ The problem of air-to-air visual detection of micro unmanned aerial vehicles (UA
 We present a new dataset, named Det-Fly, which consists of more than 13,000 images of a flying target UAV acquired by another flying UAV. 
 Compared to the existing datasets, the proposed one is systematically designed and more comprehensive in the sense that it covers a wide range of practical scenarios with different background scenes, viewing angles, relative distance, flying altitude, and lightning conditions. 
 
-<img src="https://github.com/Jake-WU/Det-Fly/blob/main/Images/test_results.jpg" width="700" height="600" align="middle" />
+<img src="https://github.com/Jake-WU/Det-Fly/blob/main/Images/Det-Fly.jpg" width="700" height="600" align="middle" />
 
 
 # Dataset
