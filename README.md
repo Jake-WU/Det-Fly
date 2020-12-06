@@ -7,3 +7,4 @@ Compared to the existing datasets, the proposed one is systematically designed a
 
 
 # Dataset
+We put the images and annotation files in the BaiduNetdisk. If you are interested in Det-Fly, you can download this dataset by the links and passwords below.
