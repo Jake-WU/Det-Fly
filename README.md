@@ -11,7 +11,7 @@ We put the images and annotation files in the BaiduNetdisk. If you are intereste
 
 
 # Citation
-If you use Det-Fly in your work please cite our paper!
+If you use Det-Fly in an academic context, please cite the following publication:
 
 ```
 @article{Det-Fly,
