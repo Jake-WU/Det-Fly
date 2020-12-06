@@ -7,5 +7,4 @@ Compared to the existing datasets, the proposed one is systematically designed a
 # Dataset
 
 
-<img src="https://github.com/Jake-WU/Det-Fly/blob/main/Images/test_results.jpg" width="400" height="400" alt=""/><br/>
-
+![](https://github.com/Jake-WU/Det-Fly/blob/main/Images/test_results.jpg)
