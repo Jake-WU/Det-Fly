@@ -16,11 +16,9 @@ In terms of the sizes of the target UAV in the images, a large portion of the ta
 # Download
 We put the images and annotation files in onedrive. If you are interested in Det-Fly, you can download this dataset by the links show in below.
 
-Annotations:
-https://westlakeu-my.sharepoint.com/:f:/g/personal/zhengye_westlake_edu_cn/Ekrih30GD71HkQ3hz_R6v_UBxBdpudLM7Pargd0jfle5Xw?e=7r0NAo
+Annotations: https://westlakeu-my.sharepoint.com/:f:/g/personal/zhengye_westlake_edu_cn/Ekrih30GD71HkQ3hz_R6v_UBxBdpudLM7Pargd0jfle5Xw?e=7r0NAo
 
-JPEGImages:
-https://westlakeu-my.sharepoint.com/:f:/g/personal/zhengye_westlake_edu_cn/EgGYLqrSueNMjuz9aADLhGABYhIGzTQ4--e-Fuun4HV2KQ?e=GXpuMW
+JPEGImages: https://westlakeu-my.sharepoint.com/:f:/g/personal/zhengye_westlake_edu_cn/EgGYLqrSueNMjuz9aADLhGABYhIGzTQ4--e-Fuun4HV2KQ?e=GXpuMW
 
 
 # Citation
