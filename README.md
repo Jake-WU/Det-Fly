@@ -11,7 +11,6 @@ In terms of the sizes of the target UAV in the images, a large portion of the ta
 
 ## Samples show
 <img src="https://github.com/Jake-WU/Det-Fly/blob/main/Images/Det-Fly.jpg" width="700" height="600" align="middle" />
-![samples] (https://github.com/Jake-WU/Det-Fly/blob/main/Images/Det-Fly.jpg)
 
 
 # Download
