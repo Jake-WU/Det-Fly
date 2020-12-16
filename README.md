@@ -20,6 +20,8 @@ Annotations: https://westlakeu-my.sharepoint.com/:f:/g/personal/zhengye_westlake
 
 JPEGImages: https://westlakeu-my.sharepoint.com/:f:/g/personal/zhengye_westlake_edu_cn/EqFYguroD9lEnVDTRkyoOJQBrHvndTQGa5f8EQurGRFUqQ?e=DXPQxN
 
+Challenging scenes:https://westlakeu-my.sharepoint.com/:f:/g/personal/zhengye_westlake_edu_cn/EvobqkP5VwBGtiYtRIZLwX8BPs4QxuE_fq-q6ilZHeu9JA?e=oGY0x3
+
 
 # Citation
 If you use Det-Fly in an academic context, please cite the following publication:
