@@ -28,9 +28,11 @@ If you use Det-Fly in an academic context, please cite the following publication
 
 ```
 @article{Det-Fly,
-  title={Air-to-Air Visual Detection of Micro-UAVs: An Experimental Evaluation of Deep Learning},
-  author={Ye Zheng, Zhang Chen, Dailin Lv, Zhixing Li, Zhenzhong Lan, Shiyu Zhao},
-  journal = {arXiv},
-  year={2020}
-}
+  author={Zheng, Ye and Chen, Zhang and Lv, Dailin and Li, Zhixing and Lan, Zhenzhong and Zhao, Shiyu},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Air-to-Air Visual Detection of Micro-UAVs: An Experimental Evaluation of Deep Learning}, 
+  year={2021},
+  volume={6},
+  number={2},
+  pages={1020-1027}}
 ```
